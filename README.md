@@ -1,7 +1,7 @@
 # CheckPhoneSize
 Comparison check phone free size method.
 
-Device tested are in the following belows:
+Some of the devices that have been tested:
 
 
 Xiaomi MI 4W. Marshmallow. API 23<br/>
