@@ -63,3 +63,16 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+# IDEA
+.idea
+.idea/
+.idea/workspace.xml
+.idea/workspace.xml
+
+# Gradle
+.gradle
+.gradle/
+/gradle
+
+.DS_Store
