@@ -1,5 +1,5 @@
 # CheckPhoneSize
-Comparison check phone free size method.
+Comparison check phone free size method
 
 Some of the devices that have been tested:
 
