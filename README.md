@@ -11,7 +11,7 @@ Free Storage : 1.36GB
 
 LGE Nexus 5. Nougat. API 24<br/>
 ![LGE Nexus 5](../master/screenshots/LGE_Nexus5_Nougat.png)<br/>
-Free Storage = 12.55 - 7.16 = 5.36 GB
+Free Storage = 12.55 - 7.16 = 5.39 GB
 
 
 Motorola Nexus 6. Nougat. API 25<br/>
