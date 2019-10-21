@@ -6,12 +6,12 @@ Some of the devices that have been tested:
 
 Xiaomi MI 4W. Marshmallow. API 23<br/>
 ![Xiaomi MI 4W](../master/screenshots/Xiaomi_Mi4W_Marshmallow.png)<br/>
-Free Storage : 1.36GB
+Free Storage = 1.36GB
 
 
 LGE Nexus 5. Nougat. API 24<br/>
 ![LGE Nexus 5](../master/screenshots/LGE_Nexus5_Nougat.png)<br/>
-Free Storage = 12.55 - 7.16 = 5.39 GB
+Free Storage = 12.55 - 7.67 = 4.88 GB
 
 
 Motorola Nexus 6. Nougat. API 25<br/>
