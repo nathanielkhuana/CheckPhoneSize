@@ -9,7 +9,7 @@ class StorageStatsRepositoryLegacy : StorageStatsRepository {
 
     @RequiresApi(Build.VERSION_CODES.JELLY_BEAN_MR2)
     override suspend fun getFreeSpaceBytes(): Long {
-        val statFs = StatFs(Environment.getRootDirectory().absolutePath)
+        val statFs = StatFs(Environment.getDataDirectory().absolutePath)
         return statFs.availableBytes
     }
 }
